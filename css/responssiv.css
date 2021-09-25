@@ -1,0 +1,241 @@
+@media only screen and (max-width: 1700px) {
+    .about_section .about_option_wrapper .about_option h2 {
+        font-size: 26px;
+    }
+    .about_section .about_option_wrapper .about_option .about_option_pra {
+        font-size: 19px;
+    }
+}
+
+
+@media only screen and (max-width: 1600px) {
+    .about_section .about_option_wrapper .about_option h2 {
+        font-size: 24px;
+    }
+    .about_section .about_option_wrapper .about_option .about_option_pra {
+        font-size: 17px;
+    }
+    .about_section .about_option_wrapper .imgage img {
+        width: 100%;
+        height: 414px;
+    }
+}
+
+
+@media only screen and (max-width: 1400px) {
+    .contact_section {
+        padding: 80px;
+    }
+    .about_section {
+        padding: 50px;
+    }
+    
+}
+
+
+@media only screen and (max-width: 1300px) {}
+
+
+@media only screen and (max-width: 1200px) {
+
+    .hero_section h1 {
+        font-size: 63px;
+    }
+
+    .hero_section p {
+        font-size: 22px;
+    }
+
+    .hero_section a {
+        font-size: 17px;
+    }
+
+    .service_section .service_option_wrepper .service_option {
+        padding: 20px 7px;
+    }
+    .contact_section .contact_wrapper {
+        margin-top: 82px;
+    }
+    .contact_section .contact_section_top .top_pra {
+        margin: 18px 0px;
+        font-size: 21px;
+    }
+    .about_section .about_option_wrapper .about_option {
+        padding-right: 20px;
+    }
+    .about_section {
+        padding: 50px 0;
+    }
+    .service_section .service_option_wrepper {
+        padding: 50px 30px;
+    }
+}
+
+
+@media only screen and (max-width: 1100px) {
+    .header_section .mein_menu ul li {
+        padding: 5px 6px;
+    }
+
+    .header_section .mein_menu ul li a {
+        font-size: 18px;
+    }
+
+    .hero_section {
+        padding: 200px;
+    }
+
+    .hero_section h1 {
+        font-size: 58px;
+    }
+
+    .hero_section p {
+        font-size: 21px;
+    }
+
+    .hero_section a {
+        font-size: 16px;
+        margin-top: 22px;
+    }
+    .about_section .about_option_wrapper .about_option {
+        width: 100%;
+    }
+    .about_section .about_option_wrapper .imgage {
+        width: 100%;
+    }
+    .about_section .about_option_wrapper .about_option {
+        padding: 0 20px;
+    }
+    .about_section .about_option_wrapper .imgage img {
+        height: auto;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    .header_section .mein_menu ul li {
+        padding: 5px 4px;
+    }
+
+    .header_section .logo {
+        max-width: 100%;
+        text-align: center;
+        float: inherit;
+    }
+
+    .header_section .mein_menu {
+        max-width: 100%;
+        text-align: center;
+        margin-top: 20px;
+        float: inherit;
+    }
+
+    .hero_section a {
+        font-size: 12px;
+        margin-top: 18px;
+    }
+
+    .hero_section p {
+        font-size: 17px;
+    }
+
+    .hero_section h1 {
+        font-size: 45px;
+    }
+
+    .hero_section {
+        padding: 140px;
+    }
+
+    .service_section .service_option_wrepper .service_option {
+        width: 100%;
+    }
+    .contact_section .contact_wrapper .contact_option {
+        width: 100%;
+        margin-top: 41px;
+    }
+    .contact_section .contact_wrapper {
+        margin-top: 37px;
+    }
+
+
+}
+
+@media only screen and (max-width: 768px) {
+
+    .hero_section {
+        padding: 140px 34px;
+        text-align: left;
+        width: 100%;
+    }
+    .contact_section .contact_wrapper {
+        margin-top: 0px;
+    }
+    .contact_section {
+        padding: 40px 22px;
+    }
+}
+
+@media only screen and (max-width: 576px) {
+
+    .contact_section .contact_wrapper .contact_option .contact_option_pra {
+        font-size: 19px;
+    }
+    .service_section .service_option_wrepper {
+        padding: 40px 40px;
+    }
+    .service_section .service_top_content .top_pra {
+        font-size: 17px;
+        padding: 0 15px;
+    }
+    .service_section .service_top_content .top_content {
+        font-size: 35px;
+    }
+    .about_section {
+        padding: 48px 0px;
+    }
+    .about_section .about_option_wrapper .about_option {
+        padding: 0 18px;
+    }
+    .contact_section .contact_section_top h1 {
+        font-size: 36px;
+    }
+    .contact_section .contact_section_top .top_pra {
+        margin: 27px 0px;
+        font-size: 21px;
+    }
+    .contact_section .contact_wrapper {
+        margin-top: 0px;
+        margin-bottom: 30px;
+    }
+    .contact_section {
+        padding: 24px;
+    }
+    .about_section .about_pra {
+        padding: 0 20px;
+        margin: 25px;
+        font-size: 17px;
+    }
+    .footer_icon_menu ul li {
+        font-size: 16px;
+    }
+    .footer_copyright_section {
+        font-size: 16px;
+    }
+    .service_section .service_option_wrepper .service_option {
+        padding: 0px 7px;
+        margin-right: 2%;
+        margin-top: 50px;
+    }
+    .service_section .service_option_wrepper .service_option h3 {
+        font-size: 25px;
+    }
+    .service_section .service_option_wrepper .service_option .fas, .fa-lightbulb {
+        font-size: 45px;
+    }
+    .service_section .service_top_content {
+        padding-top: 50px;
+    }
+    .about_section h1 {
+        font-size: 40px;
+    }
+}
